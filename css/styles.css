@@ -14,7 +14,7 @@ body {
 
 .container {
   max-width: 406px;
-  height: 630px;
+  min-height: 630px;
   background: white;
   color: hsl(224, 23%, 55%);
   border-radius: 1rem;
